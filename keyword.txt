@@ -1,9 +1,5 @@
-eval(htmlspecialchars_decode(base64_decode(urldecode(base64_decode($t13r)))));
-eval(htmlspecialchars_decode(urldecode(base64_decode($xD)))); exit; ?&gt;
-eval(base64_decode(
-eval(strrev(htmlspecialchars_decode(gzinflate(base64_decode($obfuscator)))))
-.gzuncompress(base64_decode(
-eval(htmlspecialchars_decode(gzinflate(base64_decode($Cyto))));
+htmlspecialchars_decode
+base64_decode
 solevisible@gmail.com
 https://github.com/eviltwin-id/eviltwin-shell
 Watching webshell!
