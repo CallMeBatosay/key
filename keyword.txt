@@ -1,3 +1,21 @@
-BYBATOSAY1337
-WHOAMI1337
-KONTOL1337
+Gmail:		solevisible@gmail.com
+<?php header("X-XSS-Protection: 0");ob_start();set_time_limit(0);error_reporting(0);ini_set('display_errors', FALSE);
+By: MR.P4UL / Bo0G3yM4n
+// Download : https://github.com/eviltwin-id/eviltwin-shell
+<?php error_reporting(0);ini_set("display_errors", 0);if(!defined('rnavkdih')){define('rnavkdih'
+//--------------Watching webshell!--------------
+eval(htmlspecialchars_decode(base64_decode(urldecode(base64_decode($t13r)))));
+* Konsep Shell : Brillyan -Founder { IndoSec }-
+{ IndoSec sHell }
+< root@indoxploit:~# w00t??? >
+## recoded b374k shell
+https://github.com/b374k/b374k
+ * webadmin.php - a simple Web-based file manager
+c99shell.php v.2.0 (PHP 7) (25.02.2019) Updated by: HackingTool for PHP 7
+eval(htmlspecialchars_decode(urldecode(base64_decode($xD)))); exit; ?>
+eval(base64_decode(base64_decode('
+// Coded By Mr.Lutfie404 Remix By ./LuLlaby007
+// Cylul007 Webshell Is Webshell For Bypass Firewall When It's Deleted,403 Forbidden,406 Not Acceptable,Downloaded,ETC.
+ * H3K | Tiny File Manager V2.4.6
+<br/><h3>22Xploiter Shell Backdoor</h3><hr/><br/>
+Special thanks for Holiq@Indosec
