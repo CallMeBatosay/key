@@ -19,3 +19,16 @@ eval(base64_decode(base64_decode('
  * H3K | Tiny File Manager V2.4.6
 <br/><h3>22Xploiter Shell Backdoor</h3><hr/><br/>
 Special thanks for Holiq@Indosec
+;eval(base64_decode("
+This code was created on Friday, May 11th, 2018 at 15:37 UTC from IP 45.77.117.183
+Beyaz_Hacker.php completely rewritten:
+&nbsp;Programer : SimAttacker - Edited By KingDefacer<br>
+eval(strrev(htmlspecialchars_decode(gzinflate(base64_decode($obfuscator)))))
+GitHub: https://github.com/Saskraxploit
+<title>'.$_SERVER['HTTP_HOST'].' ~ Saudi Sh3ll</title>
+echo "<link href=data:image/gif;https://i.ibb.co/7pksvzC/20200701-002727.png rel=icon type=image/x-icon />";
+<!-- RandsX aka T1kus_g0t -->
+// Priv Shell 
+// Silence Because Yourself
+/** Adminer - Compact database management
+echo "<script>alert('Your shell script was succefully deleted!')</script>";
